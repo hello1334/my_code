@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce8cbcec-b0ca-493f-9c00-ee681ef1c6c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo/baekjoon/N-Queen_9663/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo/baekjoon/battle_1303/1303.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo/baekjoon/battle_1303/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/baekjoon/N-Queen_9663/9663.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/baekjoon/N-Queen_9663/9663.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/baekjoon/N-Queen_9663/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/baekjoon/dragon_15685/15685.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/baekjoon/dragon_15685/15685.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo/baekjoon/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo/baekjoon/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +85,8 @@
       <recent name="C:\ssafy10\my_code\python\Algo\baekjoon\PuyoPuyo_11559" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9663">
-    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1303">
+    <configuration name="1303" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo/baekjoon/one_number_1065" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo/baekjoon/battle_1303" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo/baekjoon/one_number_1065/1065.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo/baekjoon/battle_1303/1303.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1303" />
         <item itemvalue="Python.9663" />
         <item itemvalue="Python.2083" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.9935" />
-        <item itemvalue="Python.1065" />
       </list>
     </recent_temporary>
   </component>
